@@ -39,6 +39,6 @@ Este proyecto está implementado en Python y utiliza el framework Kivy para la i
 
 ## Uso
 
-- Uso del código fuente Huffman por consola: Para hacer uso de la aplicación por consola se debe correr el archivo huffman.py que se encuentra en la carpeta 'huffmanCode'. 
+- Uso del código fuente Huffman por consola: Para hacer uso de la aplicación por consola se debe correr el archivo console.py que se encuentra en la carpeta 'consoleHuffman'. 
 
 - Uso del Kivy: Para hacer uso de la aplicación con interfaz gráfica se debe correr el archivo interfaz.py que se encuentra en la carpeta 'interfazHuffman'.
